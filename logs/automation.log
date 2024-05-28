@@ -1,0 +1,86 @@
+2024-05-26 14:26:33,038:INFO:Starting test automation
+2024-05-26 14:26:33,054:INFO:reading test cases from excel file
+2024-05-26 14:26:35,241:INFO:executing the case id : 1
+2024-05-26 14:26:35,241:INFO:Initiating the wev driver
+2024-05-26 14:26:37,999:INFO:calling function according the test casse id: 1
+2024-05-26 14:27:08,814:INFO:executing the case id : 2
+2024-05-26 14:27:08,815:INFO:Initiating the wev driver
+2024-05-26 14:27:14,130:INFO:calling function according the test casse id: 2
+2024-05-26 14:27:21,400:INFO:executing the case id : 3
+2024-05-26 14:27:21,400:INFO:Initiating the wev driver
+2024-05-26 14:27:26,730:INFO:calling function according the test casse id: 3
+2024-05-26 14:27:40,923:INFO:executing the case id : 4
+2024-05-26 14:27:40,923:INFO:Initiating the wev driver
+2024-05-26 14:27:46,219:INFO:Function tetst_4 does not exist or is not callable.
+2024-05-26 14:27:57,141:INFO:Test automation completed
+2024-05-26 14:30:35,333:INFO:Starting test automation
+2024-05-26 14:30:35,333:INFO:reading test cases from excel file
+2024-05-26 14:30:35,567:INFO:executing the case id : 1
+2024-05-26 14:30:35,567:INFO:Initiating the wev driver
+2024-05-26 14:30:36,967:INFO:calling function according the test casse id: 1
+2024-05-26 14:30:44,697:INFO:executing the case id : 2
+2024-05-26 14:30:44,697:INFO:Initiating the wev driver
+2024-05-26 14:30:50,045:INFO:calling function according the test casse id: 2
+2024-05-26 14:30:57,230:INFO:executing the case id : 3
+2024-05-26 14:30:57,230:INFO:Initiating the wev driver
+2024-05-26 14:31:02,493:INFO:calling function according the test casse id: 3
+2024-05-26 14:31:16,588:INFO:executing the case id : 4
+2024-05-26 14:31:16,588:INFO:Function tetst_4 does not exist or is not callable.
+2024-05-26 14:31:25,184:INFO:Test automation completed
+2024-05-26 14:38:42,106:INFO:Starting test automation
+2024-05-26 14:38:42,106:INFO:reading test cases from excel file
+2024-05-26 14:38:42,457:INFO:executing the case id : 1
+2024-05-26 14:38:42,457:INFO:Initiating the wev driver
+2024-05-26 14:38:43,931:INFO:calling function according the test casse id: 1
+2024-05-26 14:38:51,837:INFO:executing the case id : 2
+2024-05-26 14:38:51,837:INFO:Initiating the wev driver
+2024-05-26 14:38:57,172:INFO:calling function according the test casse id: 2
+2024-05-26 14:39:04,368:INFO:executing the case id : 3
+2024-05-26 14:39:04,368:INFO:Initiating the wev driver
+2024-05-26 14:39:09,662:INFO:calling function according the test casse id: 3
+2024-05-26 14:39:23,815:INFO:executing the case id : 4
+2024-05-26 14:39:23,815:INFO:Function tetst_4 does not exist or is not callable.
+2024-05-26 14:39:32,413:INFO:Test automation completed
+2024-05-28 23:34:41,722:INFO:Starting test automation
+2024-05-28 23:34:41,722:INFO:reading test cases from excel file
+2024-05-28 23:34:43,459:INFO:executing the case id : 1
+2024-05-28 23:34:43,459:INFO:Initiating the wev driver
+2024-05-28 23:34:46,488:INFO:calling function according the test casse id: 1
+2024-05-28 23:34:55,626:INFO:executing the case id : 2
+2024-05-28 23:34:55,626:INFO:Initiating the wev driver
+2024-05-28 23:35:00,913:INFO:calling function according the test casse id: 2
+2024-05-28 23:35:09,301:INFO:executing the case id : 3
+2024-05-28 23:35:09,301:INFO:Initiating the wev driver
+2024-05-28 23:35:14,569:INFO:calling function according the test casse id: 3
+2024-05-28 23:35:29,816:INFO:executing the case id : 4
+2024-05-28 23:35:29,816:INFO:Initiating the wev driver
+2024-05-28 23:35:35,130:INFO:calling function according the test casse id: 4
+2024-05-28 23:36:42,108:INFO:Starting test automation
+2024-05-28 23:36:42,108:INFO:reading test cases from excel file
+2024-05-28 23:36:42,341:INFO:executing the case id : 1
+2024-05-28 23:36:42,341:INFO:Initiating the wev driver
+2024-05-28 23:36:43,637:INFO:calling function according the test casse id: 1
+2024-05-28 23:36:51,924:INFO:executing the case id : 2
+2024-05-28 23:36:51,924:INFO:Initiating the wev driver
+2024-05-28 23:36:57,236:INFO:calling function according the test casse id: 2
+2024-05-28 23:37:05,798:INFO:executing the case id : 3
+2024-05-28 23:37:05,799:INFO:Initiating the wev driver
+2024-05-28 23:37:11,124:INFO:calling function according the test casse id: 3
+2024-05-28 23:37:26,750:INFO:executing the case id : 4
+2024-05-28 23:37:26,750:INFO:Initiating the wev driver
+2024-05-28 23:37:32,070:INFO:calling function according the test casse id: 4
+2024-05-28 23:44:07,517:INFO:Starting test automation
+2024-05-28 23:44:07,517:INFO:reading test cases from excel file
+2024-05-28 23:44:07,774:INFO:executing the case id : 1
+2024-05-28 23:44:07,774:INFO:Initiating the wev driver
+2024-05-28 23:44:09,045:INFO:calling function according the test casse id: 1
+2024-05-28 23:44:17,529:INFO:executing the case id : 2
+2024-05-28 23:44:17,530:INFO:Initiating the wev driver
+2024-05-28 23:44:22,838:INFO:calling function according the test casse id: 2
+2024-05-28 23:44:31,671:INFO:executing the case id : 3
+2024-05-28 23:44:31,671:INFO:Initiating the wev driver
+2024-05-28 23:44:37,018:INFO:calling function according the test casse id: 3
+2024-05-28 23:44:52,387:INFO:executing the case id : 4
+2024-05-28 23:44:52,388:INFO:Initiating the wev driver
+2024-05-28 23:44:57,724:INFO:calling function according the test casse id: 4
+2024-05-28 23:46:28,764:INFO:Test automation completed
