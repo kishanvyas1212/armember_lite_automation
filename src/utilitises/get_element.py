@@ -9,7 +9,11 @@ class get_element:
         if action=='click':
             element.click()
         elif action=="send_keys":
+            element.clear()
             element.send_keys(value)
+        elif action=="get_attribute":
+            input_value= element.get_attribute("value")
+            return input_value
         return
         
         
@@ -17,23 +21,25 @@ class get_element:
         try:
             if locator=="ID" or locator=="id":
                 element = driver.find_element(By.ID, locatorpath )
-                if action!="" or action!="1" or action=="click" or action=="send_keys":
-                    get_element.action_perform(element,action,value)
+                if action!="" or action!="1" or action=="click" or action=="send_keys" or action=="get_attribute":
+                    input_value = get_element.action_perform(element,action,value)
                 return element
             elif locator=="XPATH" or locator=="xpath":
                 element = driver.find_element(By.XPATH,locatorpath)
-                if action!="" or action!="1" or action=="click" or action=="send_keys":
-                    get_element.action_perform(element,action,value)
+                if action!="" or action!="1" or action=="click" or action=="send_keys" or action=="get_attribute":
+                    input_value = get_element.action_perform(element,action,value)
                 return element
             elif locator=="name" or locator=="NAME":
+                
                 element = driver.find_element(By.NAME,locatorpath)
-                if action!="" or action!="1" or action=="click" or action=="send_keys":    
-                    get_element.action_perform(element,action,value)
-                return element
+                
+                if action!="" or action!="1" or action=="click" or action=="send_keys" or action=="get_attribute":    
+                    input_value = get_element.action_perform(element,action,value)
+                return element,input_value
         except Exception as e:
             print("Element is not found so please retry to move to next case")
-            driver.save_screenshot("screenshots/" + str(value) +".png")
-            driver.quit()
+            # driver.save_screenshot("screenshots/" + str(value) +".png")
+            # driver.quit()
             
     def wait_for_element_present(drivers,locator, timeout=2):
         try: 

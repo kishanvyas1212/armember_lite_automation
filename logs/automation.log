@@ -1,86 +1,186 @@
-2024-05-26 14:26:33,038:INFO:Starting test automation
-2024-05-26 14:26:33,054:INFO:reading test cases from excel file
-2024-05-26 14:26:35,241:INFO:executing the case id : 1
-2024-05-26 14:26:35,241:INFO:Initiating the wev driver
-2024-05-26 14:26:37,999:INFO:calling function according the test casse id: 1
-2024-05-26 14:27:08,814:INFO:executing the case id : 2
-2024-05-26 14:27:08,815:INFO:Initiating the wev driver
-2024-05-26 14:27:14,130:INFO:calling function according the test casse id: 2
-2024-05-26 14:27:21,400:INFO:executing the case id : 3
-2024-05-26 14:27:21,400:INFO:Initiating the wev driver
-2024-05-26 14:27:26,730:INFO:calling function according the test casse id: 3
-2024-05-26 14:27:40,923:INFO:executing the case id : 4
-2024-05-26 14:27:40,923:INFO:Initiating the wev driver
-2024-05-26 14:27:46,219:INFO:Function tetst_4 does not exist or is not callable.
-2024-05-26 14:27:57,141:INFO:Test automation completed
-2024-05-26 14:30:35,333:INFO:Starting test automation
-2024-05-26 14:30:35,333:INFO:reading test cases from excel file
-2024-05-26 14:30:35,567:INFO:executing the case id : 1
-2024-05-26 14:30:35,567:INFO:Initiating the wev driver
-2024-05-26 14:30:36,967:INFO:calling function according the test casse id: 1
-2024-05-26 14:30:44,697:INFO:executing the case id : 2
-2024-05-26 14:30:44,697:INFO:Initiating the wev driver
-2024-05-26 14:30:50,045:INFO:calling function according the test casse id: 2
-2024-05-26 14:30:57,230:INFO:executing the case id : 3
-2024-05-26 14:30:57,230:INFO:Initiating the wev driver
-2024-05-26 14:31:02,493:INFO:calling function according the test casse id: 3
-2024-05-26 14:31:16,588:INFO:executing the case id : 4
-2024-05-26 14:31:16,588:INFO:Function tetst_4 does not exist or is not callable.
-2024-05-26 14:31:25,184:INFO:Test automation completed
-2024-05-26 14:38:42,106:INFO:Starting test automation
-2024-05-26 14:38:42,106:INFO:reading test cases from excel file
-2024-05-26 14:38:42,457:INFO:executing the case id : 1
-2024-05-26 14:38:42,457:INFO:Initiating the wev driver
-2024-05-26 14:38:43,931:INFO:calling function according the test casse id: 1
-2024-05-26 14:38:51,837:INFO:executing the case id : 2
-2024-05-26 14:38:51,837:INFO:Initiating the wev driver
-2024-05-26 14:38:57,172:INFO:calling function according the test casse id: 2
-2024-05-26 14:39:04,368:INFO:executing the case id : 3
-2024-05-26 14:39:04,368:INFO:Initiating the wev driver
-2024-05-26 14:39:09,662:INFO:calling function according the test casse id: 3
-2024-05-26 14:39:23,815:INFO:executing the case id : 4
-2024-05-26 14:39:23,815:INFO:Function tetst_4 does not exist or is not callable.
-2024-05-26 14:39:32,413:INFO:Test automation completed
-2024-05-28 23:34:41,722:INFO:Starting test automation
-2024-05-28 23:34:41,722:INFO:reading test cases from excel file
-2024-05-28 23:34:43,459:INFO:executing the case id : 1
-2024-05-28 23:34:43,459:INFO:Initiating the wev driver
-2024-05-28 23:34:46,488:INFO:calling function according the test casse id: 1
-2024-05-28 23:34:55,626:INFO:executing the case id : 2
-2024-05-28 23:34:55,626:INFO:Initiating the wev driver
-2024-05-28 23:35:00,913:INFO:calling function according the test casse id: 2
-2024-05-28 23:35:09,301:INFO:executing the case id : 3
-2024-05-28 23:35:09,301:INFO:Initiating the wev driver
-2024-05-28 23:35:14,569:INFO:calling function according the test casse id: 3
-2024-05-28 23:35:29,816:INFO:executing the case id : 4
-2024-05-28 23:35:29,816:INFO:Initiating the wev driver
-2024-05-28 23:35:35,130:INFO:calling function according the test casse id: 4
-2024-05-28 23:36:42,108:INFO:Starting test automation
-2024-05-28 23:36:42,108:INFO:reading test cases from excel file
-2024-05-28 23:36:42,341:INFO:executing the case id : 1
-2024-05-28 23:36:42,341:INFO:Initiating the wev driver
-2024-05-28 23:36:43,637:INFO:calling function according the test casse id: 1
-2024-05-28 23:36:51,924:INFO:executing the case id : 2
-2024-05-28 23:36:51,924:INFO:Initiating the wev driver
-2024-05-28 23:36:57,236:INFO:calling function according the test casse id: 2
-2024-05-28 23:37:05,798:INFO:executing the case id : 3
-2024-05-28 23:37:05,799:INFO:Initiating the wev driver
-2024-05-28 23:37:11,124:INFO:calling function according the test casse id: 3
-2024-05-28 23:37:26,750:INFO:executing the case id : 4
-2024-05-28 23:37:26,750:INFO:Initiating the wev driver
-2024-05-28 23:37:32,070:INFO:calling function according the test casse id: 4
-2024-05-28 23:44:07,517:INFO:Starting test automation
-2024-05-28 23:44:07,517:INFO:reading test cases from excel file
-2024-05-28 23:44:07,774:INFO:executing the case id : 1
-2024-05-28 23:44:07,774:INFO:Initiating the wev driver
-2024-05-28 23:44:09,045:INFO:calling function according the test casse id: 1
-2024-05-28 23:44:17,529:INFO:executing the case id : 2
-2024-05-28 23:44:17,530:INFO:Initiating the wev driver
-2024-05-28 23:44:22,838:INFO:calling function according the test casse id: 2
-2024-05-28 23:44:31,671:INFO:executing the case id : 3
-2024-05-28 23:44:31,671:INFO:Initiating the wev driver
-2024-05-28 23:44:37,018:INFO:calling function according the test casse id: 3
-2024-05-28 23:44:52,387:INFO:executing the case id : 4
-2024-05-28 23:44:52,388:INFO:Initiating the wev driver
-2024-05-28 23:44:57,724:INFO:calling function according the test casse id: 4
-2024-05-28 23:46:28,764:INFO:Test automation completed
+2024-05-30 23:52:51,753:INFO:Starting test automation
+2024-05-30 23:52:51,753:INFO:reading test cases from excel file
+2024-05-30 23:52:52,118:INFO:executing the case id : nan
+2024-05-30 23:52:52,118:INFO:Function testcase_nan does not exist or is not callable.
+2024-05-30 23:52:52,118:INFO:executing the case id : nan
+2024-05-30 23:52:52,118:INFO:Function testcase_nan does not exist or is not callable.
+2024-05-30 23:52:52,118:INFO:executing the case id : nan
+2024-05-30 23:52:52,118:INFO:Function testcase_nan does not exist or is not callable.
+2024-05-30 23:52:52,118:INFO:executing the case id : 4.0
+2024-05-30 23:52:52,118:INFO:Function testcase_4.0 does not exist or is not callable.
+2024-05-30 23:52:52,118:INFO:executing the case id : 5.0
+2024-05-30 23:52:52,118:INFO:Function testcase_5.0 does not exist or is not callable.
+2024-05-30 23:52:52,118:INFO:executing the case id : 6.0
+2024-05-30 23:52:52,118:INFO:Function testcase_6.0 does not exist or is not callable.
+2024-05-30 23:52:52,118:INFO:executing the case id : 7.0
+2024-05-30 23:52:52,118:INFO:Function testcase_7.0 does not exist or is not callable.
+2024-05-30 23:52:52,118:INFO:executing the case id : 8.0
+2024-05-30 23:52:52,118:INFO:Function testcase_8.0 does not exist or is not callable.
+2024-05-30 23:52:57,806:INFO:Test automation completed
+2024-05-30 23:53:58,226:INFO:Starting test automation
+2024-05-30 23:53:58,226:INFO:reading test cases from excel file
+2024-05-30 23:53:58,603:INFO:executing the case id : 12
+2024-05-30 23:53:58,603:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-30 23:53:58,603:INFO:executing the case id : 14
+2024-05-30 23:53:58,603:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-30 23:53:58,603:INFO:executing the case id : 14
+2024-05-30 23:53:58,603:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-30 23:53:58,603:INFO:executing the case id : 4
+2024-05-30 23:53:58,603:INFO:Initiating the wev driver
+2024-05-30 23:54:00,142:INFO:calling function according the test casse id: 4
+2024-05-30 23:55:53,178:INFO:Starting test automation
+2024-05-30 23:55:53,178:INFO:reading test cases from excel file
+2024-05-30 23:55:53,476:INFO:executing the case id : 12
+2024-05-30 23:55:53,476:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-30 23:55:53,476:INFO:executing the case id : 14
+2024-05-30 23:55:53,476:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-30 23:55:53,476:INFO:executing the case id : 14
+2024-05-30 23:55:53,476:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-30 23:55:53,476:INFO:executing the case id : 444
+2024-05-30 23:55:53,476:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-30 23:55:53,476:INFO:executing the case id : 45
+2024-05-30 23:55:53,476:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-30 23:55:53,476:INFO:executing the case id : 6
+2024-05-30 23:55:53,476:INFO:Initiating the wev driver
+2024-05-30 23:55:54,947:INFO:calling function according the test casse id: 6
+2024-05-30 23:56:13,464:INFO:executing the case id : 7
+2024-05-30 23:56:13,464:INFO:Initiating the wev driver
+2024-05-30 23:56:18,908:INFO:calling function according the test casse id: 7
+2024-05-30 23:56:41,205:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018BF548CA60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5133c5ccb14a9e04fb6fef25882a62a3/element
+2024-05-30 23:56:45,279:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018BF548C820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5133c5ccb14a9e04fb6fef25882a62a3/element
+2024-05-30 23:56:49,333:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018BF5429660>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5133c5ccb14a9e04fb6fef25882a62a3/element
+2024-05-31 22:44:52,311:INFO:Starting test automation
+2024-05-31 22:44:52,311:INFO:reading test cases from excel file
+2024-05-31 22:44:55,165:INFO:executing the case id : 12
+2024-05-31 22:44:55,165:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-31 22:44:55,165:INFO:executing the case id : 14
+2024-05-31 22:44:55,165:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 22:44:55,165:INFO:executing the case id : 14
+2024-05-31 22:44:55,165:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 22:44:55,165:INFO:executing the case id : 444
+2024-05-31 22:44:55,165:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-31 22:44:55,165:INFO:executing the case id : 45
+2024-05-31 22:44:55,165:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-31 22:44:55,165:INFO:executing the case id : 6
+2024-05-31 22:44:55,170:INFO:Initiating the wev driver
+2024-05-31 22:44:58,060:INFO:calling function according the test casse id: 6
+2024-05-31 22:45:50,397:INFO:executing the case id : 7
+2024-05-31 22:45:50,397:INFO:Initiating the wev driver
+2024-05-31 22:45:55,790:INFO:calling function according the test casse id: 7
+2024-05-31 22:46:22,185:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BE3D588A60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/effc467fed7f1c8e4d06ad5ca9b7a1f1/element
+2024-05-31 22:46:26,230:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BE3D588820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/effc467fed7f1c8e4d06ad5ca9b7a1f1/element
+2024-05-31 22:46:30,283:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BE3D529780>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/effc467fed7f1c8e4d06ad5ca9b7a1f1/element
+2024-05-31 22:46:38,442:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BE3D52A5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/effc467fed7f1c8e4d06ad5ca9b7a1f1/screenshot
+2024-05-31 22:46:42,534:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BE3D529F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/effc467fed7f1c8e4d06ad5ca9b7a1f1/screenshot
+2024-05-31 22:46:46,614:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BE3D52A6E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/effc467fed7f1c8e4d06ad5ca9b7a1f1/screenshot
+2024-05-31 22:57:03,185:INFO:Starting test automation
+2024-05-31 22:57:03,185:INFO:reading test cases from excel file
+2024-05-31 22:57:03,825:INFO:executing the case id : 12
+2024-05-31 22:57:03,825:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-31 22:57:03,825:INFO:executing the case id : 14
+2024-05-31 22:57:03,825:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 22:57:03,825:INFO:executing the case id : 14
+2024-05-31 22:57:03,825:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 22:57:03,825:INFO:executing the case id : 444
+2024-05-31 22:57:03,825:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-31 22:57:03,825:INFO:executing the case id : 45
+2024-05-31 22:57:03,825:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-31 22:57:03,825:INFO:executing the case id : 45454
+2024-05-31 22:57:03,825:INFO:Function testcase_45454 does not exist or is not callable.
+2024-05-31 22:57:03,825:INFO:executing the case id : 7
+2024-05-31 22:57:03,825:INFO:Initiating the wev driver
+2024-05-31 22:57:05,675:INFO:calling function according the test casse id: 7
+2024-05-31 22:57:34,155:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000266D462B250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e29905e602009f1628352d6dc90cb836/element
+2024-05-31 22:57:38,225:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000266D462A590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e29905e602009f1628352d6dc90cb836/element
+2024-05-31 22:57:42,316:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000266D462A410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e29905e602009f1628352d6dc90cb836/element
+2024-05-31 22:57:50,489:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000266D462A110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e29905e602009f1628352d6dc90cb836/screenshot
+2024-05-31 22:57:54,556:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000266D4629ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e29905e602009f1628352d6dc90cb836/screenshot
+2024-05-31 22:57:58,612:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000266D4629D80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e29905e602009f1628352d6dc90cb836/screenshot
+2024-05-31 23:03:56,739:INFO:Starting test automation
+2024-05-31 23:03:56,739:INFO:reading test cases from excel file
+2024-05-31 23:03:57,059:INFO:executing the case id : 12
+2024-05-31 23:03:57,059:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-31 23:03:57,059:INFO:executing the case id : 14
+2024-05-31 23:03:57,059:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:03:57,059:INFO:executing the case id : 14
+2024-05-31 23:03:57,059:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:03:57,059:INFO:executing the case id : 444
+2024-05-31 23:03:57,059:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-31 23:03:57,059:INFO:executing the case id : 45
+2024-05-31 23:03:57,059:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-31 23:03:57,059:INFO:executing the case id : 45454
+2024-05-31 23:03:57,059:INFO:Function testcase_45454 does not exist or is not callable.
+2024-05-31 23:03:57,059:INFO:executing the case id : 7
+2024-05-31 23:03:57,059:INFO:Initiating the wev driver
+2024-05-31 23:03:58,489:INFO:calling function according the test casse id: 7
+2024-05-31 23:08:16,500:INFO:Starting test automation
+2024-05-31 23:08:16,500:INFO:reading test cases from excel file
+2024-05-31 23:08:16,799:INFO:executing the case id : 12
+2024-05-31 23:08:16,799:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-31 23:08:16,799:INFO:executing the case id : 14
+2024-05-31 23:08:16,799:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:08:16,799:INFO:executing the case id : 14
+2024-05-31 23:08:16,799:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:08:16,799:INFO:executing the case id : 444
+2024-05-31 23:08:16,799:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-31 23:08:16,799:INFO:executing the case id : 45
+2024-05-31 23:08:16,799:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-31 23:08:16,799:INFO:executing the case id : 45454
+2024-05-31 23:08:16,799:INFO:Function testcase_45454 does not exist or is not callable.
+2024-05-31 23:08:16,799:INFO:executing the case id : 7
+2024-05-31 23:08:16,799:INFO:Initiating the wev driver
+2024-05-31 23:08:18,363:INFO:calling function according the test casse id: 7
+2024-05-31 23:09:46,419:INFO:executing the case id : 8
+2024-05-31 23:09:46,419:INFO:Function testcase_8 does not exist or is not callable.
+2024-05-31 23:09:57,030:INFO:Test automation completed
+2024-05-31 23:30:07,425:INFO:Starting test automation
+2024-05-31 23:30:07,425:INFO:reading test cases from excel file
+2024-05-31 23:30:07,716:INFO:executing the case id : 12
+2024-05-31 23:30:07,716:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-31 23:30:07,716:INFO:executing the case id : 14
+2024-05-31 23:30:07,716:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:30:07,716:INFO:executing the case id : 14
+2024-05-31 23:30:07,716:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:30:07,716:INFO:executing the case id : 444
+2024-05-31 23:30:07,716:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-31 23:30:07,716:INFO:executing the case id : 45
+2024-05-31 23:30:07,716:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-31 23:30:07,716:INFO:executing the case id : 45454
+2024-05-31 23:30:07,716:INFO:Function testcase_45454 does not exist or is not callable.
+2024-05-31 23:30:07,716:INFO:executing the case id : 7
+2024-05-31 23:30:07,716:INFO:Initiating the wev driver
+2024-05-31 23:30:09,186:INFO:calling function according the test casse id: 7
+2024-05-31 23:34:39,208:INFO:Starting test automation
+2024-05-31 23:34:39,208:INFO:reading test cases from excel file
+2024-05-31 23:34:39,492:INFO:executing the case id : 12
+2024-05-31 23:34:39,492:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-31 23:34:39,492:INFO:executing the case id : 14
+2024-05-31 23:34:39,492:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:34:39,492:INFO:executing the case id : 14
+2024-05-31 23:34:39,492:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:34:39,492:INFO:executing the case id : 444
+2024-05-31 23:34:39,492:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-31 23:34:39,492:INFO:executing the case id : 45
+2024-05-31 23:34:39,492:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-31 23:34:39,492:INFO:executing the case id : 45454
+2024-05-31 23:34:39,492:INFO:Function testcase_45454 does not exist or is not callable.
+2024-05-31 23:34:39,492:INFO:executing the case id : 7
+2024-05-31 23:34:39,492:INFO:Initiating the wev driver
+2024-05-31 23:34:40,806:INFO:calling function according the test casse id: 7
+2024-05-31 23:37:25,368:INFO:Starting test automation
+2024-05-31 23:37:25,368:INFO:reading test cases from excel file
+2024-05-31 23:37:25,635:INFO:executing the case id : 12
+2024-05-31 23:37:25,635:INFO:Function testcase_12 does not exist or is not callable.
+2024-05-31 23:37:25,635:INFO:executing the case id : 14
+2024-05-31 23:37:25,635:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:37:25,635:INFO:executing the case id : 14
+2024-05-31 23:37:25,635:INFO:Function testcase_14 does not exist or is not callable.
+2024-05-31 23:37:25,635:INFO:executing the case id : 444
+2024-05-31 23:37:25,635:INFO:Function testcase_444 does not exist or is not callable.
+2024-05-31 23:37:25,635:INFO:executing the case id : 45
+2024-05-31 23:37:25,635:INFO:Function testcase_45 does not exist or is not callable.
+2024-05-31 23:37:25,635:INFO:executing the case id : 45454
+2024-05-31 23:37:25,635:INFO:Function testcase_45454 does not exist or is not callable.
+2024-05-31 23:37:25,635:INFO:executing the case id : 7
+2024-05-31 23:37:25,635:INFO:Initiating the wev driver
+2024-05-31 23:37:26,914:INFO:calling function according the test casse id: 7

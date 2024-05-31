@@ -48,14 +48,15 @@ def testcase_2(drivers):
     return actual_result,status
     
     
-def testcase_3(drivers):
+def testcase_3(drivers,username=right_username):
     # Login with right creds
     drivers.get(BASE_URL+"/login")
-    usernamef = ge.findelement(drivers,"NAME","user_login","send_keys",right_username) 
-    pwd = ge.findelement(drivers,"NAME","user_pass","send_keys",right_username)   
+    usernamef = ge.findelement(drivers,"NAME","user_login","send_keys",username) 
+    pwd = ge.findelement(drivers,"NAME","user_pass","send_keys",username)   
     beforelogin = drivers.get_cookies()
     login = ge.findelement(drivers,"NAME","armFormSubmitBtn","click")
     time.sleep(10)
+    
     loggedin_cookies = drivers.get_cookies()
 # Find the dictionary that matches the specified name
     desired_cookie = next((cookie for cookie in loggedin_cookies if cookie['name'] == COOKIE), None)
@@ -112,8 +113,62 @@ def testcase_4(drivers):
         status = "failed"
     return actual_result,status
     
+def testcase_5(drivers):
+    # Login with right creds
+    actual_result,status = testcase_4(drivers)
+    return actual_result,status 
 
+def testcase_6(drivers):
+    testcase_3(drivers,right_username)
+    drivers.get(BASE_URL+"/setup")
+    ge.findelement(driver=drivers,locator="xpath",locatorpath="//*[@id='arm_subscription_plan_option_1']/div[1]/input",action="click")
+    ge.findelement(driver=drivers,locator="name",locatorpath="ARMSETUPSUBMIT",action="click")
+    time.sleep(1)
+    current_url = drivers.current_url
+    if current_url in singup_redirect or current_url == singup_redirect:
+        actual_result,status = f"sign up the user {right_username} with free plan and redirected properly","pass"
+    else:
+        actual_result,status = f"sign up the user {right_username} with free plan and but not redirected properly","pass"
+    return actual_result,status
 
+def testcase_7(drivers):
+    
+    testcase_3(drivers,right_username)
+    drivers.get(BASE_URL+"/edit_profile")
+    time.sleep(1)
+    editedname="name edited"
+    ge.findelement(drivers,"NAME","first_name","send_keys",editedname)
+    
+    ge.findelement(drivers,"NAME","last_name","send_keys",editedname)
+    ge.findelement(drivers,"NAME","profile_cover","send_keys",image_file)
+    
+    
+    ge.findelement(drivers,"NAME","armFormSubmitBtn","click")
+    time.sleep(1)
+    error, error_msg = validate.registerformverification(drivers) 
+    print(error_msg,error_msg)   
+    if error == 0:
+        drivers.refresh()
+        element,first_name = ge.findelement(drivers,"NAME","first_name","get_attribute")
+        element,last_name = ge.findelement(drivers,"NAME","last_name","get_attribute")
+        # element,profile_cover = ge.findelement(drivers,"NAME","profile_cover","get_attribute")
+        actual_result,status="",""
+        if editedname in first_name :
+            actual_result,status = f"the user {right_username} profile is edited updated first name from {f_name} to {first_name} ","pass"
+        else:
+            actual_result,status = f"the user {right_username} profile is editedn not updated first name from {f_name} to {first_name}","pass"
+        if editedname in last_name:
+            actual_result,status =actual_result+ f"the user {right_username} profile is edited updated first name from {l_name} to {last_name} ","pass"
+        else:
+            actual_result,status = f"the user {right_username} profile is editedn not updated first name from {l_name} to {last_name}","pass"
+        # if imagename in profile_cover:
+        #     actual_result,status =actual_result+ f" and profile cover {profile_cover} is added ","pass"
+        # else:
+        #     actual_result,status =actual_result+ f" and profile cover is not updated ","pass"
+    elif error ==1:
+        actual_result,status = error_msg,"failed"
+    return actual_result,status
+    
 def link_checker(driver):
     driver.get("https://www.sociamonials.com")
     
